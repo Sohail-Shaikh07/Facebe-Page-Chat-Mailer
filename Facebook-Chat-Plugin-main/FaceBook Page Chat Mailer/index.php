@@ -5,8 +5,8 @@
  * Version:           1.0.0
  * Requires at least: 5.2
  * Requires PHP:      7.2
- * Author:            Aman Khan
- * Author URI:        https://www.upwork.com/freelancers/~014023f820b4940974
+ * Author:            Sohael Shaikh
+ * Author URI:        https://www.fiverr.com/sohael16/
  */
 define('CR_FACEBOOK_PLUGIN', __FILE__);
 define('FACEBOOK_APP_ID', '822494921717907');
